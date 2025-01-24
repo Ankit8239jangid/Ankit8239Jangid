@@ -84,7 +84,7 @@ An innovative editor allowing users to:
 ## 🌟 Let's Connect!
 
 - **Location**: Jaipur, Rajasthan
-- **Email**: [ankitjangid6375@gmail.com](mailto:ankitjangid2232@gmail.com)
+- **Email**: [ankitjangid2232@gmail.com](mailto:ankitjangid2232@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ankit-jangid-417b902bb](https://linkedin.com/in/ankit-jangid-417b902bb)
 - **Twitter**: [@AnkitJangid82](https://twitter.com/AnkitJangid82)
 - **Instagram**: [@ankitjangid__001](https://www.instagram.com/ankitjangid__001)
