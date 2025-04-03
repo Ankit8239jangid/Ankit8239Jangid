@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m passionate about building seamless, high-per
 
 ## 💼 Featured Projects  
 
-### 🚖 **Uber Clone** (Live: [Uber Clone](https://uber-by-ankit.vercel.app/))  
+### 🚖 **Uber Clone** ( under constraction) (Live: [Uber Clone](https://uber-by-ankit.vercel.app/))  
 A modern ride-booking platform with real-time navigation, user & captain dashboards.  
 - **Tech Stack:** React.js, Tailwind CSS, Redux, Node.js, MongoDB, JWT Authentication.  
 
