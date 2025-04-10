@@ -1,6 +1,6 @@
 
 # Hi, I'm Ankit! 👋  
-🌟 **Frontend Developer | React & Next.js Enthusiast | Problem Solver**  
+🌟 **Frontend Developer | React & Next.js Enthusiast | Problem Solver**  | [Resume](https://drive.google.com/file/d/1PpolxNqxjoeVHd9P6BwGt7uK22Dfv474/view?usp=drivesdk)
 
 ![Developer at Work](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)  
 
