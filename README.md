@@ -1,6 +1,5 @@
 # Hi, I'm Ankit! 👋  
-🌟 **Frontend Developer | React & Next.js Enthusiast | Problem Solver**  
-🎯 [My Portfolio](https://www.notion.so/Ankit-Jangid-1d3e297eb2528031a29df252805f6d52?pvs=4)
+🌟 Frontend Developer | React & Next.js Enthusiast | 🎯 [My Portfolio](https://www.notion.so/Ankit-Jangid-1d3e297eb2528031a29df252805f6d52?pvs=4)
 
 ![Developer at Work](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)  
 
